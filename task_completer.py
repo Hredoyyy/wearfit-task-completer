@@ -1,6 +1,5 @@
 import requests
 import time
-import json
 import urllib3
 import sys
 import os
